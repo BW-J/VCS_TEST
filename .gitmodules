@@ -1,0 +1,3 @@
+[submodule "js_ChromeApp"]
+	path = js_ChromeApp
+	url = https://github.com/BW-J/js_ChromeApp.git
